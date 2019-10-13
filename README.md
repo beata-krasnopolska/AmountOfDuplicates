@@ -1,4 +1,2 @@
 # AmountOfDuplicates
-Program displyays an amount of duplicates in the Array. User declares amount of numbers in the array as well the numbers.
-
-Use of Dictionary, loops, if statements,
+Program displyays an amount of duplicates in the list of integers. Use of Dictionary, List, LINQ, foreach loop and if statement.
